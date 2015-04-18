@@ -1,3 +1,9 @@
+GIT
+  remote: https://gist.github.com/becd69dcd6afc394a7df.git
+  revision: 85d592ef92029f12a7244868ad07f225ddbe272c
+  specs:
+    nfu (0.0.1)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -57,6 +63,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  nfu!
   rake
   ruboty-alias
   ruboty-cron
